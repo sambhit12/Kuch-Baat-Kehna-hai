@@ -14,7 +14,7 @@ var love = setInterval(function(){
   
   var i = 0;
   var txt1 = "Hii Suhani ... < Tumhe apne andar ki baat kaise bataye samajh nahi aa rha tha ... So, Iske help se bata rhe bss ... <<   Actually Starting from the day in this 3rd Semester, Jabse maine tumhe dekha hai, mujhe kuch naya sa laga and I am now sure that if I will not tell my feelings for you then I will regret forsure !!... <<<   So, Please read this ...!  > Pata nh kyu lekin jabse tumhe dekha h roj kuch na kuch khayal aate hi rehta h ...  <<  Uss din maine ek quote padha tha ...!! < Somewhere between seven billion choices, but 'This Heart wants to be yours only' ....! << Mujhe to ye bhi nhi pta tum kya sochogi ya filhall padhte waqt kya soch rhi ho ...   > Lekin Literally, agar main abhi nh bola to mujhe regret hoga ... << 3rd Sem bhi almost khatam hone ja rha h and aur kitna din hi main apne andar bss sochta rahu ki whether i should tell or not !?  <<  Roz Sochta hu tumse baat karne ka but pta nh kyu samne milne par kuch words nikalta hi nh h ... Bohot din k baad pehli baar tumhe msg bhi kiya wo bhi notes k liye bss jaise tumse baat start to kar saku ...   >  Aur aaj bahut din k baad mujhe andar se feel ho rha h, nh bhai Somnath ab to bol bhi de ...   << Maine kahin padha tha --> It's Difficult To Wait, But WORSE To Regret ...!! And main iss regret ka part nh banna chahta ab ... > So, Suhani aur jyda words to waise mere pas hai nahi bolne ke liye bss itna hi bolna tha ...      >> Haa, ek request h bss ... Iska Reply jarur karna, Whatever be your responce ... I'll be Waiting ..!!   @Somnath";
-  var speed = 80;
+  var speed = 60;
   typeWriter();
   function typeWriter() {
     if (i < txt1.length) {        
